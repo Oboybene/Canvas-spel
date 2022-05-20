@@ -1,0 +1,5 @@
+/*så att bakgrunden tar upp hela skärmen*/
+body {
+  margin: 0px;
+  padding: 0px;
+}
